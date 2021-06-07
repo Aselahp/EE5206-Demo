@@ -1,7 +1,8 @@
 using System;
 
 namespace SoftwareProject
-{
+{   
+    //This is comment
     public class WeatherForecast
     {
         public DateTime Date { get; set; }
